@@ -10,4 +10,4 @@
 
 ## Project Review
 
-![](images/proje.gif)
+![](images/gifproje.gif)
