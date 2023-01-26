@@ -1,6 +1,7 @@
 # Bootstrap Project
 
-[Live Demo](https://kemalbabaoglu.github.io/Bootstrap-Project/):point_left:
+[Live Demo](https://kemalbabaoglu.github.io/Bootstrap-Proje/):point_left:
+
 
 ## Built with
  - [HTML](https://www.w3schools.com/html/)
